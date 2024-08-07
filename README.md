@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ArpitaJain03
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning React and DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... arpitajain0628@gmail.com
+# Hello, I'm Arpita Jain!
 
-<!---
-ArpitaJain03/ArpitaJain03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## [My Resume](https://docs.google.com/document/d/14mn-ivngLwVRyjuGJPmgDWxtveQcBk-wICAhaThZrBM/edit?usp=drivesdk)
+
+## [Portfolio](https://my-portfolio-pied-theta-10.vercel.app/)
+
+I'm a passionate Full-Stack Developer with a keen interest in  Data Structure and Algorithm and Competitive Programming Also focusing on building robust MERN (MongoDB, Express.js, React.js, Node.js) applications 💻. I thrive on solving complex problems and creating efficient, scalable solutions.
+
+## What I Do:
+
+- Develop full-stack web applications using MERN stack technologies.
+- Participate in competitive programming challenges on platforms like LeetCode , GeeksforGeeks and  Codeforces.
+- Continuously learn and explore new technologies to stay updated with industry trends.
+
+## Skills:
+- Programming Language : C++ , C  , javascript
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js , APIs 
+- Database: MongoDB , Convex ,Prisma
+- Other: Git,RESTful APIs
+
+## Let's Connect:
+
+- 📧 Email: arpitajain0628@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/arpitajain0628/
+
+Feel free to explore my GitHub repositories and reach out for collaboration opportunities or just to say hi! 😊
