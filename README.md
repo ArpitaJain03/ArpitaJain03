@@ -1,6 +1,6 @@
 # Hello, I'm Arpita Jain!
 
-## [My Resume](https://docs.google.com/document/d/14mn-ivngLwVRyjuGJPmgDWxtveQcBk-wICAhaThZrBM/edit?usp=drivesdk)
+## [My Resume](https://drive.google.com/file/d/1QILtupn4TqmDD_3sD_zvmsqVB70hSTho/view?usp=drive_link)
 
 ## [Portfolio](https://my-portfolio-pied-theta-10.vercel.app/)
 
